@@ -12,6 +12,7 @@ dataset has two columns :
 
 First, content need to preprocess as far as I could, I did it   
 but if you know another solution, please tell me  
+<br>
 ![DataSet](https://github.com/hoco1/Spam-detection/blob/main/img/dataset.jpg)
 
 ## Algorithm and Preprocessing
@@ -34,10 +35,10 @@ but if you know another solution, please tell me
 
 ## Deployment
 
-Flask application
+**Flask application**
 
 ![WebSite](https://github.com/hoco1/Spam-detection/blob/main/img/main.jpg)
-![How Does It Work](https://github.com/hoco1/Spam-detection/blob/mai/img/How%20does%20it%20work.gif)
+![How Does It Work](https://github.com/hoco1/Spam-detection/blob/main/img/How%20does%20it%20work.gif)
 
 
 ## Contributing
