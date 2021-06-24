@@ -38,6 +38,8 @@ but if you know another solution, please tell me
 **Flask application**
 
 ![WebSite](https://github.com/hoco1/Spam-detection/blob/main/img/main.jpg)
+<br>
+<br>
 ![How Does It Work](https://github.com/hoco1/Spam-detection/blob/main/img/How%20does%20it%20work.gif)
 
 
